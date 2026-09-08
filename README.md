@@ -105,6 +105,10 @@ Key measures created include:
 
 Percentage-based metrics were implemented as measures so that they respond dynamically to dashboard filters and slicers.
 
+```markdown
+Detailed DAX formulas and explanations are available in [`documentation/DAX_Measures.md`](documentation/DAX_Measures.md).
+
+
 ---
 
 ## 📊 Dashboard Features
@@ -240,13 +244,15 @@ ecommerce-sales-analytics-powerbi/
 ├── README.md
 │
 ├── dashboard/
-│   └── ECommerce_Sales_Analytics.pbix
+│   ├── ECommerce_Sales_Analytics.pbix
+│   └── README.md
 │
 ├── screenshots/
 │   └── dashboard.png
 │
 ├── dataset/
-│   └── superstore.csv
+│   ├── superstore.csv
+│   └── README.md
 │
 └── documentation/
-    └── project-summary.pdf
+    └── DAX_Measures.md
