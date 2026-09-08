@@ -244,8 +244,8 @@ ecommerce-sales-analytics-powerbi/
 ├── README.md
 │
 ├── dashboard/
-│   ├── ECommerce_Sales_Analytics.pbix
-│   └── README.md
+│   └── ECommerce_Sales_Analytics.pbix
+│   
 │
 ├── screenshots/
 │   └── dashboard.png
